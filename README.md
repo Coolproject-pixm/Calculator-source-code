@@ -3,6 +3,7 @@
 ```bash
 windres resource.rc -o resource.o
 ```
+# linking it as .exe file
 ```
 gcc main.c resource.o -mwindows -lcomctl32 -o Calculator.exe
 ```
