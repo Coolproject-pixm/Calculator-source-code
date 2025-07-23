@@ -1,0 +1,3 @@
+(just also run the batch file, and you'll have the compiled program, just a basic Calculator program, also with styles, which have app.manifest style visible, also install the compiler, just either use just TDM-GCC.
+also, please run the batch file to compile the resource.rc into resource.o and link it with .exe file.
+Also, TDM-GCC is best choice, because it would help you make your own project, since you don't like writing the Code by hand, then try mine, which is better, also MinGW is trash, because it has error compiling, Also, maybe you should use AI chatbot to code your project like GUI program.

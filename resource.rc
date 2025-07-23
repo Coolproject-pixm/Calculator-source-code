@@ -1,0 +1,17 @@
+#include "resource.h"
+#include <windows.h>
+
+// Icon
+IDI_APP_ICON ICON "app.ico"
+
+// Embed manifest as resource ID 1
+1 RT_MANIFEST "app.manifest"
+
+// Main menu
+IDR_MAINMENU MENU
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "E&xit", IDM_EXIT
+    END
+END
