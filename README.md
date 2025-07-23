@@ -2,7 +2,7 @@
 # just run the commands, or just run the batch file!
 ```bash
 windres resource.rc -o resource.o
-
+-- then this final linking part!
 ```bash
 gcc main.c resource.o -mwindows -lcomctl32 -o Calculator.exe
-# that's all of steps you need!
+-- that's all of steps you need!
