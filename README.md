@@ -9,3 +9,4 @@ gcc main.c resource.o -mwindows -lcomctl32 -o Calculator.exe
 ```
 # end
 - this is how it works!
+just remember to run the command tools or the batch file like I told you!
