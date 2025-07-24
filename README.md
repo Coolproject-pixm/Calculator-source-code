@@ -1,5 +1,5 @@
 # the calculator program source code
-#### just run the commands, or just run the batch file!
+## just run the commands, or just run the batch file!
 ```bash
 windres resource.rc -o resource.o
 ```
